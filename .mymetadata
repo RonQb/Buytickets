@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="moana"
+  id="myeclipse.1483449986643"
+  context-root="/moana"
+  j2ee-spec="6.0"
+  archive="moana.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
