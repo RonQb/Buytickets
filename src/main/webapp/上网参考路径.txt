@@ -1,0 +1,31 @@
+1、Myeclipse 10 Maven 构建 Java Web 项目
+	
+	http://jingyan.baidu.com/article/22a299b5123ddc9e19376a14.html
+
+2、DataNucleus之JDO操作示例
+
+	http://blog.csdn.net/xtayfjpk/article/details/25320499
+
+3、Maven学习参考
+
+	http://elim.iteye.com/category/269897
+
+4、DataNucleus + MySql 
+
+	http://www.360doc.com/content/09/1103/11/15103_8316910.shtml
+
+5、Windows 64位下安装Redis详细教程
+
+	http://jingyan.baidu.com/article/f25ef2546119fd482c1b8214.html
+
+6、Java中使用Jedis操作Redis
+
+	http://www.cnblogs.com/liuling/p/2014-4-19-04.html
+
+7、windows下如何安装配置nginx
+
+	http://jingyan.baidu.com/article/6f2f55a1a112cdb5b83e6c62.html?st=2&os=0&bd_page_type=1&net_type=1
+
+8、nginx+tomcat实现代理访问java web项目
+
+	http://www.open-open.com/lib/view/open1436323043833.html
